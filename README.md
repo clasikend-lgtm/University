@@ -1,1 +1,35 @@
-# University
+<p align="center">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Emblem_of_the_First_Galactic_Empire.svg"
+       width="250"
+       alt="Эмблема Галактической Империи">
+</p>
+
+<h1 align="center">IMPERIAL PROJECT</h1>
+<p align="center"><i>Порядок в галактике.</i></p>
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2J3Y3Vna3hyYnF2YWNuMGh0YTBiajYwdTdkNzR2c2N1YXAzM28xeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3owzW193WohlOkugsE/giphy.gif"
+       width="680"
+       alt="Long live the Empire!">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PROJECT-IMPERIAL-00599C?style=for-the-badge">
+  <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-8B0000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LOYALTY-LONG%20LIVE%20THE%20EMPIRE-111111?style=for-the-badge">
+</p>
+
+---
+
+<h1 align="center">ИМПЕРСКИЙ АРХИВ</h1>
+
+**IMPERIAL PROJECT** — Установить Новый порядок в Галактике
+
+
+
+> «Вас приветствует Галактическая Империя.»
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG04b3B2Y2c1cDN2NDJucWMxODNmbHBmczhhbmlzZTlmbGRsemFhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xe5ALiX3aSsrE84ufq/giphy.gif"
+       width="500"
+       alt="Строительство Звезды Смерти">
